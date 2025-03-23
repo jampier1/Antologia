@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd646fb3-c566-424e-ab4c-a09263fd9b0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Definicion y uso de_funciones en programacion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Búsqueda en Arreglo Multidimensional.executor": "Run",
+    "Python.Calculo_descuentoPython.executor": "Run",
     "Python.Definicion y uso de_funciones en programacion.executor": "Run",
     "Python.Iteración de arreglos_multidimensionales con bucles anidados.executor": "Run",
     "Python._arreglo.executor": "Run",
