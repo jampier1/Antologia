@@ -1,2 +1,2 @@
 # Antologia
-Este repositorio contiene dos libros en formato pdf
+Este repositorio contiene los trabajos de fundamentos de programación 
