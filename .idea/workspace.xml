@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd646fb3-c566-424e-ab4c-a09263fd9b0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Trabajo con Archivos_de Texto en Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archivo_texto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajo con Archivos_de Texto en Python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my_notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +44,7 @@
     "Python._arreglo.executor": "Run",
     "Python._arreglos.executor": "Run",
     "Python._programa2.executor": "Run",
+    "Python.archivo_texto.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
